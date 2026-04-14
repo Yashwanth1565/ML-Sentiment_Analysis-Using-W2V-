@@ -1,0 +1,16 @@
+# Core ML
+scikit-learn
+numpy
+scipy
+
+# Word2Vec
+gensim
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Frontend
+streamlit
+requests
