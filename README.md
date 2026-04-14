@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ba979ab0-5d03-4611-8f3d-500def85cb28" />**PROBLEM STATEMENT:**
+**PROBLEM STATEMENT:**
 People write reviews, comments, feedback
 Businesses need to understand sentiment automatically
 Manual analysis is slow
